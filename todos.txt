@@ -1,0 +1,9 @@
+TODO:  do think more about implementation of adapters, line - 7, file - E:\Source\Garbage source\ColorSound\_src\adapters.py
+TODO:  use drequency interpolation instead of waves?, line - 27, file - E:\Source\Garbage source\ColorSound\_src\color.py
+TODO:  LIGHT_RANGE doesnt work, line - 3, file - E:\Source\Garbage source\ColorSound\_src\constants.py
+TODO:  pink color is out of this max range, so all converting operations are wrong, line - 5, file - E:\Source\Garbage source\ColorSound\_src\constants.py
+TODO:  12 magic decimal of size of "Notes", line - 69, file - E:\Source\Garbage source\ColorSound\_src\sound.py
+TODO:  removing last element, maybe get rid of it earlier?, line - 79, file - E:\Source\Garbage source\ColorSound\_src\sound.py
+TODO:  must not be less that A_NOTE_FREQ, line - 82, file - E:\Source\Garbage source\ColorSound\_src\sound.py
+TODO:  recursion error exception, line - 92, file - E:\Source\Garbage source\ColorSound\_src\sound.py
+TODO:  implement this, line - 142, file - E:\Source\Garbage source\ColorSound\_src\sound.py

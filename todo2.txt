@@ -1,0 +1,13 @@
+TODO:  get rid of using of constans in some functions. Instead create function's arguments and the pass constants, line - 3, file - E:\Source\Garbage source\ColorSound\__main__.py
+TODO:  pending test, line - 6, file - E:\Source\Garbage source\ColorSound\__main__.py
+TODO:  do think more about implementation of adapters, line - 7, file - E:\Source\Garbage source\ColorSound\_src\adapters.py
+TODO:  None error F_S note, line - 24, file - E:\Source\Garbage source\ColorSound\_src\adapters.py
+TODO:  use drequency interpolation instead of waves?, line - 27, file - E:\Source\Garbage source\ColorSound\_src\color.py
+TODO:  LIGHT_RANGE doesnt work, line - 3, file - E:\Source\Garbage source\ColorSound\_src\constants.py
+TODO:  pink color is out of this max range, so all converting operations are wrong, line - 5, file - E:\Source\Garbage source\ColorSound\_src\constants.py
+TODO:  12 magic decimal of size of "Notes", line - 75, file - E:\Source\Garbage source\ColorSound\_src\sound.py
+TODO:  removing last element, maybe get rid of it earlier?, line - 85, file - E:\Source\Garbage source\ColorSound\_src\sound.py
+TODO:  must not be less that A_NOTE_FREQ, line - 88, file - E:\Source\Garbage source\ColorSound\_src\sound.py
+TODO:  0.8 was passing, this is error, line - 96, file - E:\Source\Garbage source\ColorSound\_src\sound.py
+TODO:  recursion error exception, line - 98, file - E:\Source\Garbage source\ColorSound\_src\sound.py
+TODO:  use NOTE_RELATIVE_TO_A_MAP instead of integer, line - 104, file - E:\Source\Garbage source\ColorSound\_src\sound.py
